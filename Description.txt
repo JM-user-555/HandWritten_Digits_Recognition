@@ -1,0 +1,7 @@
+Hello, it's Jad Mattar. This is a description file of the project.
+
+In this file, we are going to build a Machine Learning model that predicts the hand-written digit.
+
+We have used KNN algorithm in order to predict. We trained the model based on Trainingset_sample folder that contains 750 images for each digit. We calculated the accuracy of the model and represented the confusion matrix.
+You should use the libraries: sklearn, cv2, numpy, matplotlib, os and time. 
+We used sklearn to import the KNN model and metrics for confusion matrix calculation, matplotlib to represent graphically the confusion matrix, cv2 to read the images, time to calculate the time for the model to train and predict, os to access the file names.
